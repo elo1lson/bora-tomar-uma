@@ -1,0 +1,23 @@
+{
+  "name": "bora-tomar-uma",
+  "version": "1.0.0",
+  "description": "bora tomar uma",
+  "main": "client.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --watch client.js"
+  },
+  "keywords": [
+    "bora",
+    "tomar",
+    "uma"
+  ],
+  "author": "elo1lson",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ytdl-core": "^4.11.2"
+  }
+}
